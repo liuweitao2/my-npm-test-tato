@@ -1,7 +1,8 @@
 import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
-import Tato from './components/tato'
+//import Tato from './components/tato'
+import Demo from 'my-npm-test-2'
 class App extends Component {
   render() {
     return (
@@ -12,7 +13,7 @@ class App extends Component {
             Edit <code>src/App.js</code> and save to reload.
           </p>
           <div>
-            <Tato a={1} b={2}/>
+            <Demo a={1} b={5}/>
           </div>
           <a
             className="App-link"
