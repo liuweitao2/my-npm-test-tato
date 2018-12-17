@@ -2,7 +2,8 @@ import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
 //import Tato from './components/tato'
-import Demo from 'my-npm-test-2'
+//import Demo from 'my-npm-test-2'
+import Demo from 'tato-npm-test'
 class App extends Component {
   render() {
     return (
