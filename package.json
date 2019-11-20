@@ -27,6 +27,6 @@
     "not op_mini all"
   ],
   "devDependencies": {
-    "tato-npm-test": "^1.0.1"
+    "tato-npm-test": "^1.0.4"
   }
 }

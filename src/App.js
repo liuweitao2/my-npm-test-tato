@@ -3,7 +3,7 @@ import logo from './logo.svg';
 import './App.css';
 //import Tato from './components/tato'
 //import Demo from 'my-npm-test-2'
-import Demo from 'tato-npm-test'
+import A,{C1} from 'tato-npm-test'
 class App extends Component {
   render() {
     return (
@@ -14,7 +14,7 @@ class App extends Component {
             Edit <code>src/App.js</code> and save to reload.
           </p>
           <div>
-            <Demo a={1} b={5}/>
+            <C1 a={1} b={5}/>
           </div>
           <a
             className="App-link"
